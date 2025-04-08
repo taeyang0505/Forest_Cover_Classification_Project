@@ -94,7 +94,7 @@ deep-learning-cover-classification-project/
 
 ## 7. Confusion Matrix (Soft Voting)
 
-> See: `images/ensemble_confusion_matrix.png`
+> ![ensemble_confusion_matrix](images/ensemble_confusion_matrix.png)
 
 ```
 Highlights:
